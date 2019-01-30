@@ -1,0 +1,7 @@
+name = "MuxMiddleware"
+uuid = "76bf762c-24b3-11e9-2a64-8779c0828807"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+Mux = "a975b10e-0019-58db-a62f-e48ff68538c9"
